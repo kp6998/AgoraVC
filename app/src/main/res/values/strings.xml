@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AgoraVC</string>
+    <string name="token">007eJxTYHj96ITjQ5PeF+aTON1z1mmoqGru3xfI4NTwe8f7CdVCz48pMJhYGBgbJJkZmpslmZiYGpglWphZGiUbW1oYJhoZm1lYPEwNT2kIZGTQjnZhYIRCEJ+dwTE9vygxzJmBAQCKIx7f</string>
+    <string name="appId">48030b6176b44506a8692c3981a23688</string>
+    <string name="channel">AgoraVC</string>
+</resources>
